@@ -1,6 +1,10 @@
+Projeto tem como o objetivo a criação de um site onde o usuário poderá gerenciar o seu dinheiro.
+
 Layout proposto: https://www.figma.com/file/8ik5hMkwfdi8uJv8iPv99Z/Fluxo-de-caixa-web?node-id=0%3A1
 
 # Requisitos
+
+- [ ] Criar o layout
 
 - [ ] Possibilitar que o usuário cadastre gastos
 
@@ -13,3 +17,5 @@ Layout proposto: https://www.figma.com/file/8ik5hMkwfdi8uJv8iPv99Z/Fluxo-de-caix
 - [ ] Possibilitar que o usuário faça pesquisa por gastos
 
 - [ ] Deve funcionar no mobile e no desktop
+
+- [ ] Hospedar no Github Pages
