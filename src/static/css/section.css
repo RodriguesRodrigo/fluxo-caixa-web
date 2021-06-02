@@ -7,9 +7,9 @@
 }
 
 .card-item {
-  width: 269px;
+  max-width: 450px;
   padding: 1rem 1.1875rem;
-  margin-bottom: 1.8125rem;
+  margin: 0 auto 1.8125rem;
   background-color: var(--gray);
   border-radius: 8px;
 

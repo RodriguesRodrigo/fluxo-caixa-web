@@ -1,4 +1,6 @@
 .content-title {
+  max-width: 450px;
+  margin: auto;
   padding: 3.56rem 1.68rem 1.68rem;
   display: flex;
   justify-content: space-between;
