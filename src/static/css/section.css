@@ -1,0 +1,51 @@
+.content-list {
+  background-color: var(--black);
+  height: 78vh;
+  width: 100%;
+  border-radius: 16px 16px 0 0;
+  padding: 1.68rem;
+}
+
+.card-item {
+  width: 269px;
+  padding: 1rem 1.1875rem;
+  margin-bottom: 1.8125rem;
+  background-color: var(--gray);
+  border-radius: 8px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.card-item-header {
+  display: flex;
+  flex-direction: column;
+}
+
+.description-item {
+  font-size: 1rem;
+  font-weight: bold;
+  color: var(--black);
+  margin-bottom: .4375rem;
+}
+
+.value-item {
+  font-size: .8rem;
+}
+
+.button-option {
+  background-color: transparent;
+  border: none;
+  font-size: 0;
+}
+
+.icon-option{
+  width: 9px;
+  height: 34px;
+  background-image: url('../img/more-icon.png');
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  background-position: center;
+  display: block;
+}
