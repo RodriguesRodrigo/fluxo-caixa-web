@@ -19,3 +19,28 @@ Layout proposto: https://www.figma.com/file/8ik5hMkwfdi8uJv8iPv99Z/Fluxo-de-caix
 - [ ] Deve funcionar no mobile e no desktop
 
 - [ ] Hospedar no Github Pages
+
+
+# Instalando dependências
+
+```
+yarn install
+```
+
+## Rodando projeto no ambiente de desenvolvimento
+
+```
+yarn serve
+```
+
+## Rodando projeto no ambiente de produção
+
+```
+yarn build
+```
+
+## Rodando Lint
+
+```
+yarn lint
+```
