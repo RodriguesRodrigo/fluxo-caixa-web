@@ -14,6 +14,6 @@ insert_final_newline = true
 charset = utf-8
 
 # Indentation override for all JS under lib directory
-[*.{html,css,js}]
+[*.{html,css,js,vue}]
 indent_style = space
 indent_size = 2
