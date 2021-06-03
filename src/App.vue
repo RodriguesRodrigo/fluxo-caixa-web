@@ -1,3 +1,24 @@
+<template>
+  <div id="app">
+    <Header />
+    <ListItems />
+  </div>
+</template>
+
+<script>
+import Header from './components/Header';
+import ListItems from './components/ListItems';
+
+export default {
+  name: 'App',
+  components: {
+    Header,
+    ListItems
+  }
+}
+</script>
+
+<style>
 :root {
   --white: #F9FAFB;
   --black: #111827;
@@ -29,3 +50,4 @@ button { cursor: pointer; }
 
   margin: auto;
 }
+</style>
